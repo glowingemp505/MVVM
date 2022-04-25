@@ -1,0 +1,24 @@
+PODS:
+  - AAExtensions (0.1.4)
+  - Alamofire (5.5.0)
+  - IQKeyboardManagerSwift (6.5.9)
+
+DEPENDENCIES:
+  - AAExtensions (= 0.1.4)
+  - Alamofire
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - AAExtensions
+    - Alamofire
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  AAExtensions: f4c9ff703fcce320753bbb5b0543084dc4c44568
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+
+PODFILE CHECKSUM: 7b37ba007e45caa0bf9f2f06769dc3473a7bfc75
+
+COCOAPODS: 1.11.2
